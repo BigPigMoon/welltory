@@ -1,0 +1,18 @@
+{
+    "id": "fb1a0854-9535-404d-9bdd-9ec0abb6cd6c",
+    "user_id": 222,
+    "event": "cmarker_created",
+    "data": {
+        "id": 309245,
+        "cmarker": {
+            "id": 8,
+            "date": "2020-06-27",
+            "name": "Сегодня тренировался",
+            "slug": "workout_today"
+        },
+        "user_id": 111,
+        "datetime": "2020-06-27T20:49:52.581635"
+    },
+    "created_at": "2020-06-27T20:49:52.828597Z",
+    "environment_id": 2
+}
